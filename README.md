@@ -5,7 +5,9 @@ This is a React application that displays a table of users. It allows you to fet
 ## Features
 
 1.Fetches user data from an API
+
 2.Updates user status using toggle buttons
+
 3.Selects multiple users using checkboxes
 
 ### Installation
@@ -38,9 +40,13 @@ To modify the API endpoint, update the URL in the fetchTableData and updateToggl
 The project uses the following dependencies:
 
 1.@reduxjs/toolkit: A package that provides utilities for efficient Redux development.
+
 2.axios: A promise-based HTTP client for making API requests.
+
 3.react: A JavaScript library for building user interfaces.
+
 4.react-redux: The official React bindings for Redux.
+
 5.redux: A predictable state container for JavaScript applications.
 
 
