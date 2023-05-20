@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { fetchTableData, updateToggleStatus } from '../userSlice';
+import { fetchTableData, updateToggleStatus } from '../redux/userSlice';
 import userslogo from '../assets/userslogo.png'
 import question from '../assets/questionmark.svg'
 
